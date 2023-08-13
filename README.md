@@ -21,4 +21,4 @@ Belajar Prinsip Pemrograman SOLID. (Progres 100%)
   * Object-Oriented Programming (OOP).
   * Relasi pada OOP. 
   * Software Design Principle. 
-  * S.O.L.I.D .
+  * S.O.L.I.D ..
