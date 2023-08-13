@@ -22,3 +22,4 @@ Belajar Prinsip Pemrograman SOLID. (Progres 100%)
   * Relasi pada OOP. 
   * Software Design Principle. 
   * S.O.L.I.D .
+  * gasss
