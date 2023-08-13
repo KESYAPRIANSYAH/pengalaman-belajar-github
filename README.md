@@ -5,7 +5,7 @@ Belajar kelas MPengenalan ke Logika Pemrograman (Programming Logic 101). (Progre
   * Pendahuluan : Pengenalan istilah logika dan algoritma dan jenis-jenis logika pemrograman dasar.
   * Gerbang Logika.
   * Pengenalan Dasar Computational Thinking.
-  * Penutup : Mengerti bagaimana ilmu logika pemrograman yang telah dipelajari dapat digunakan pada studi kasus yang nyata.
+  * Penutup : Mengerti bagaimana ilmu logika pemrograman yang telah dipelajari dapat digunakan pada studi kasus yang nyata..
 
 **13 Agustus 2023**  
 Belajar kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progres 100%)
