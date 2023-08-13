@@ -1,19 +1,24 @@
 #Repository Ini Berisi Pengalaman Belajar di Dicoding
 
-**14 Juni 2023**  
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
-  * Belajar tentang apa itu Java dan alasan menggunakannya.
-  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+**13 Agustus 2023**  
+Belajar kelas MPengenalan ke Logika Pemrograman (Programming Logic 101). (Progres 100%)
+  * Pendahuluan : Pengenalan istilah logika dan algoritma dan jenis-jenis logika pemrograman dasar.
+  * Gerbang Logika.
+  * Pengenalan Dasar Computational Thinking.
+  * Penutup : Mengerti bagaimana ilmu logika pemrograman yang telah dipelajari dapat digunakan pada studi kasus yang nyata.
 
-**15 Juni 2023**  
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
-  * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
-  * Belajar control flow dalam Java, seperti perulangan dan percabangan.
-  * Belajar tipe data koleksi, seperti list, set, dan map.
+**13 Agustus 2023**  
+Belajar kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progres 100%)
+  * Memahami Kebutuhan Aplikasi.
+  * Perencanaan Modifikasi Aplikasi .
+  * Mengerti Konsep Dasar Pemrograman.
+  * Modifikasi Aplikasi Perangkat Lunak.
+  * Dokumentasi Pemrograman dan Pengembangan Aplikasi Perangkat Lunak.
 
-**20 Juni 2023**  
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
-  * Belajar konsep OOP (Object-Oriented Programming) untuk mempermudah pengembangan sebuah program.
-  * Belajar class-class yang sering digunakan dalam bahasa Java seperti generic, exception, input output, date time, dan casting. 
-  * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar. 
-  * Mengerjakan ujian akhir untuk menilai kemahiran diri.
+
+**13 Agustus 2023**  
+Belajar Prinsip Pemrograman SOLID. (Progres 100%)
+  * Object-Oriented Programming (OOP).
+  * Relasi pada OOP. 
+  * Software Design Principle. 
+  * S.O.L.I.D .
